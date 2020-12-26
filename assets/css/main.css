@@ -175,10 +175,10 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #rgb(42,62,87);
+		color: rgb(42,62,87);
 		font-weight: bold;
 		line-height: 1.5;
-		margin: 0 0 0.1em 0;
+		margin: 0 0 0.3em 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -3911,4 +3911,5 @@ input, select, textarea {
 		#trueborn {
 			font-family: 'Yellowtail', cursive;
 			font-size: 6em;
+			line-height: 1
 		}
